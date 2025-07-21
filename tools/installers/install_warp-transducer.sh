@@ -184,3 +184,5 @@ main() {
 }
 
 main "$@"
+
+echo "Test Done"
